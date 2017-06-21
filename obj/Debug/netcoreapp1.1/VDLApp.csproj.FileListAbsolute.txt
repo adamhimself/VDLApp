@@ -1,0 +1,10 @@
+C:\dev\VS2017Projects\VDLApp\VDLApp\bin\Debug\netcoreapp1.1\VDLApp.deps.json
+C:\dev\VS2017Projects\VDLApp\VDLApp\bin\Debug\netcoreapp1.1\VDLApp.runtimeconfig.json
+C:\dev\VS2017Projects\VDLApp\VDLApp\bin\Debug\netcoreapp1.1\VDLApp.runtimeconfig.dev.json
+C:\dev\VS2017Projects\VDLApp\VDLApp\bin\Debug\netcoreapp1.1\VDLApp.dll
+C:\dev\VS2017Projects\VDLApp\VDLApp\bin\Debug\netcoreapp1.1\VDLApp.pdb
+C:\dev\VS2017Projects\VDLApp\VDLApp\obj\Debug\netcoreapp1.1\VDLApp.csprojResolveAssemblyReference.cache
+C:\dev\VS2017Projects\VDLApp\VDLApp\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\dev\VS2017Projects\VDLApp\VDLApp\obj\Debug\netcoreapp1.1\VDLApp.AssemblyInfo.cs
+C:\dev\VS2017Projects\VDLApp\VDLApp\obj\Debug\netcoreapp1.1\VDLApp.dll
+C:\dev\VS2017Projects\VDLApp\VDLApp\obj\Debug\netcoreapp1.1\VDLApp.pdb
